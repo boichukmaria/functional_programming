@@ -1,5 +1,5 @@
 from copy import deepcopy
-from lab2.lab2 import (
+from Lab_02.lab2 import (
     build_pipeline,
     compose,
     normalize_names,

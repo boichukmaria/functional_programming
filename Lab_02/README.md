@@ -20,9 +20,9 @@
 - агрегацію за допомогою reduce.
 
 ## Структура проєкту
-- lab2/lab2.py — функції та конвеєр;
-- lab2/main.py — запуск програми;
-- lab2/sample_data.json — вхідні дані;
+- Lab_02/lab2.py — функції та конвеєр;
+- Lab_02/main.py — запуск програми;
+- Lab_02/sample_data.json — вхідні дані;
 - tests/test_lab2.py — тести;
 - ASSIGNMENT.md — опис завдання.
 
@@ -41,7 +41,7 @@ pytest -q
 ## Запуск програми
 
 ```bash
-python -m lab2.main --data lab2/sample_data.json --top 3
+py -m Lab_02.main --data Lab_02/sample_data.json --top 3
 ```
 
 ## Перевірка коду
