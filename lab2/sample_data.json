@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "anna ivanova",
+        "age": 25,
+        "city": "Delhi",
+        "purchases": [100.0, 50.0]
+    },
+    {
+        "id": 2,
+        "name": "petro kovalenko",
+        "age": 30,
+        "city": "Lviv",
+        "purchases": [200.0]
+    },
+    {
+        "id": 3,
+        "name": "olena shevchenko",
+        "age": 19,
+        "city": "Delhi",
+        "purchases": [80.0, 20.0]
+    },
+    {
+        "id": 4,
+        "name": "maksym bondar",
+        "age": 16,
+        "city": "Kyiv",
+        "purchases": [1000.0]
+    },
+    {
+        "id": 5,
+        "name": "iryna melnyk",
+        "age": 22,
+        "city": "Kyiv",
+        "purchases": [60.0, 40.0]
+    },
+    {
+        "id": 6,
+        "name": "andrii tkachenko",
+        "age": 27,
+        "city": "Delhi",
+        "purchases": [100.0]
+    }
+]
